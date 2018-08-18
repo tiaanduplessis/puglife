@@ -1,0 +1,11 @@
+{
+    "name": "puglife",
+    "version": "1.0.0",
+    "description": "Chrome extension to replace images on page with pictures of pugs.",
+    "scripts": {
+        "lint": "standard --fix"
+    },
+    "devDependencies": {
+        "standard": "^11.0.1"
+    }
+}
